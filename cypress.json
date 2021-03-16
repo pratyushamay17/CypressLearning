@@ -1,0 +1,8 @@
+{  
+    "watchForFileChanges": false,
+    "waitForAnimations": true,
+    "env":
+    {       
+      "invalidAuthUrl": "http://abcd:abcd@the-internet.herokuapp.com/basic_auth" 
+    }   
+}

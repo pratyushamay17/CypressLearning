@@ -1,0 +1,25 @@
+{
+    "env":
+    {
+     "addOrRemoveElements":"http://the-internet.herokuapp.com/add_remove_elements/",  
+     "auth" : "http://admin:admin@the-internet.herokuapp.com/basic_auth",
+     "brokenImages": "http://the-internet.herokuapp.com/broken_images",
+     "challengingDom" : "http://the-internet.herokuapp.com/challenging_dom",
+     "contextMenu":"http://the-internet.herokuapp.com/context_menu",
+     "checkBoxes": "http://the-internet.herokuapp.com/checkboxes",
+     "dynamicContent": "http://the-internet.herokuapp.com/dynamic_content",
+     "dynamicControls": "http://the-internet.herokuapp.com/dynamic_controls",
+     "dragAndDrop": "http://the-internet.herokuapp.com/drag_and_drop",
+     "dropDown": "http://the-internet.herokuapp.com/dropdown",
+     "dynamicLoading": "http://the-internet.herokuapp.com/dynamic_loading",
+     "infiniteScroll": "http://the-internet.herokuapp.com/infinite_scroll",
+     "horizontalSlider": "http://the-internet.herokuapp.com/horizontal_slider",
+     "downloadFile": "http://the-internet.herokuapp.com/download",
+     "inputs": "http://the-internet.herokuapp.com/inputs",
+     "statusCodes":"http://the-internet.herokuapp.com/status_codes",
+     "multipleWindows":"http://the-internet.herokuapp.com/windows",
+     "keyPress":"http://the-internet.herokuapp.com/key_presses",
+     "hover":"http://the-internet.herokuapp.com/hovers",
+     "typos": "http://the-internet.herokuapp.com/typos"
+    } 
+}  
